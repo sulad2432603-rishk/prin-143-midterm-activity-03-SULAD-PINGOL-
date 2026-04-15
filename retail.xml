@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<retail xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com retail.xsd">
+
+    <price>200.00</price>
+    <name>Liquid Lipstick</name>
+    <type>Cosmetics</type>
+    <dop>
+        <year>2026</year>
+        <month>April</month>
+        <date>15</date>
+    </dop>
+    <exp>
+        <year>2027</year>
+        <month>April</month>
+        <date>15</date>
+    </exp>
+
+</retail>

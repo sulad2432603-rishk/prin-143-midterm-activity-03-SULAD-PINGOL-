@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com services.xsd">
+
+    <name>
+        <lastName>Sulad</lastName>
+        <firstName>Kristel</firstName>
+        <middleName>Frisnedi</middleName>
+    </name>
+    <age>45</age>
+    <nationality>Filipino</nationality>
+    <partylist>CommunityCare</partylist>
+    <number>072707</number>
+
+</services>

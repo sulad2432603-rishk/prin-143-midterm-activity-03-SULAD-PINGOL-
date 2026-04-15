@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com bank.xsd">
+
+    <transaction_date>2026-04-01</transaction_date>
+    <transaction_ref>RISH070707</transaction_ref>
+    <account_name>Irish Kristel</account_name>
+    <transaction_type>deposit</transaction_type>
+    <amount>2700.75</amount>
+
+</bank>

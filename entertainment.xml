@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entertainment xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com entertainment.xsd">
+
+    <movie_id>MOV247</movie_id>
+    <title>City Of Angels</title>
+
+    <release_date>
+        <year>1998</year>
+        <month>April</month>
+        <date>10</date>
+    </release_date>
+
+    <genre>Romance</genre>
+    <language>English</language>
+
+</entertainment>

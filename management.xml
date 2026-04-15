@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<management xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com management.xsd">
+
+    <name>
+        <lastName>Sulad</lastName>
+        <firstName>Irish</firstName>
+        <middleName>Frisnedi</middleName>
+    </name>
+    <age>19</age>
+    <DOB>
+        <year>2006</year>
+        <month>May</month>
+        <date>27</date>
+    </DOB>
+    <course>Information Technology</course>
+    <year_section>2-A</year_section>
+
+</management>
